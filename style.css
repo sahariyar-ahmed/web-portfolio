@@ -10,9 +10,9 @@ span{
 }
 .moonknight{
     float: left;
-    width: 40%;
+    width: 35%;
     margin: 5%;
-    padding: left 2px; ;
+    padding-left: 10px;
 }
 .moonknight img{
     width: 100%;
@@ -31,4 +31,14 @@ section{
     border-radius: 10px ;
     font-weight: bold;
     color: aliceblue;
+
+
+}
+.pro{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat ;
+    background-position: right ;
+    padding-bottom: 25%;
+   
+    
 }
