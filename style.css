@@ -42,3 +42,19 @@ section{
    
     
 }
+.shadow-man{
+    box-shadow: 10px 10px 30px gray;
+    height: 70%;
+    padding-inline: 30px;
+
+}
+#first-color{
+    border-left: 7px solid ;
+    border-image: linear-gradient(red,purple);
+    border-image-slice: 1;
+}
+#second-color{
+    border-left: 7px solid ;
+    border-image: linear-gradient(green,rgb(7, 235, 7));
+    border-image-slice: 1;
+}
